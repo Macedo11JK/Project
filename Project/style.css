@@ -1,0 +1,88 @@
+
+body{
+  background: #16222A;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3A6073, #16222A);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3A6073, #16222A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.navBarBackground{
+  width: 1268px;
+  height: 40px;
+  border-radius: 20px;
+  background: #1f4037;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #99f2c8, #1f4037);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.employeesButton{
+  background: #485563;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: white;
+  border: none;
+  height: 18px;
+  margin-left: 30px;
+  margin-top: 12px;
+}
+.margenV{
+  width: 1190px;
+  height: 245px;
+  margin-top: 90px;
+  margin-left: 40px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.boxV{
+  margin-left: 10px;
+  height: 234px;
+  width: 55px;
+  float: left;
+}
+.sidewalkV{
+  background: #52c234;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #061700, #52c234);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #061700, #52c234); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  opacity: .6;
+  width: 40px;
+  height: 15px;
+  margin-top: 20px;
+  margin-left: 8px;
+  float: left;
+}
+.parkingLotV{
+  background: #403B4A;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #E7E9BB, #403B4A);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #E7E9BB, #403B4A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  width: 40px;
+  height: 70px;
+  margin-left: 8px;
+  margin-top: 20px;
+  float: left;
+}
+.boxVException{
+  margin-left: 10px;
+  height: 234px;
+  width: 55px;
+  float: left;
+}
+.sidewalkVException{
+  opacity: .6;
+  width: 40px;
+  height: 15px;
+  margin-top: 20px;
+  margin-left: 8px;
+  float: left;
+}
+.parkingLotVException{
+  width: 40px;
+  height: 70px;
+  margin-left: 8px;
+  margin-top: 20px;
+  float: left;
+}
+.logoAdmin{
+  margin-left: 370px;
+}
+.textBox{
+  width: 200px;
+  margin-left: 540px;
+}
